@@ -6,7 +6,7 @@
 <a href="https://github.com/Moham3dRiahi/Th3inspector/blob/master/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="Build" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg" style="max-width:100%;"></a><br>
 
 <h4>Th3inspector 🕵️ best tool for Information Gathering 🔎</h4>
-<img src="https://i.imgur.com/Q81YJCU.png" data-canonical-src="https://i.imgur.com/niFwcaM.png" width="700" height="470">
+<img src="https://i.imgur.com/Q81YJCU.png" data-canonical-src="https://i.ytimg.com/vi/GIAu8uZLNAU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD6AUJythhHzkPKTS9XjEn_PI4skg" width="700" height="470">
 <hr>
 <h2>Screenshots</h2>
 
@@ -18,7 +18,7 @@
 <hr>
 
 <h2>Video</h2>
-<a href="https://www.youtube.com/watch?v=GIAu8uZLNAU"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
+<a href="https://www.youtube.com/watch?v=GIAu8uZLNAU"><img src="https://i.ytimg.com/vi/GIAu8uZLNAU/hqdefault.jpg" style="max-width:100%;"></a>
 
 <h2>Usage</h2>
 
